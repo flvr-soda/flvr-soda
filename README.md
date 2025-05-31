@@ -1,7 +1,8 @@
 # "Call me Ishmael".
 
-I'm not a professional
-I only pursue knowledge
+I'm not an expert,
+I only pursue knowledge...
+and a big white whale, apparently.
 
 ### &nbsp;Interested on
 - Social action
