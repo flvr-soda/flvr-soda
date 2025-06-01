@@ -29,6 +29,6 @@ and a big white whale, apparently.
 
 ## Stats ⚡
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HeinzDev&theme=midnight-purple&background=1111&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=flvr-soda&theme=midnight-purple&background=1111&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeinzDev&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flr-soda&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
