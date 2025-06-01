@@ -26,3 +26,9 @@ and a big white whale, apparently.
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+
+## Stats ⚡
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HeinzDev&theme=midnight-purple&background=1111&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeinzDev&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
