@@ -26,9 +26,9 @@
 <details>
   <summary>About</summary>
   
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp; I’m currently learning **Ethical Hacking and Pentesting**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I enjoy **teaching others**???????. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Trying to murder **Griffith**. <br>
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp; I’m currently learning **Ethical Hacking and Pentesting**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;&nbsp; I enjoy teaching others the little knowledge I hold. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="25" />&nbsp;&nbsp; Trying to murder **Griffith** and **the whale that ate my leg**. <br>
 
 </details>
 
