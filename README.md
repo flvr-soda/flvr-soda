@@ -3,7 +3,7 @@
 
 I'm not an expert,
 I only pursue knowledge...
-and a big white whale, apparently.
+and a big white whale, apparently. (please just hire me)
 
 ### &nbsp;Interested on
 - Social action
