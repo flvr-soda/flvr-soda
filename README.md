@@ -5,9 +5,6 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=flvr-soda&style=flat&color=orange&label=PROFILE+VIEWS)
 
-
-<hr></hr>
-
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
@@ -20,19 +17,26 @@
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
-  
+<hr></hr>  
 </div>
 
-<details>
-  <summary>About</summary>
+<a>
+
+**About me**
   
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp; I’m currently learning **Ethical Hacking and Pentesting**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;&nbsp; I enjoy teaching others the little knowledge I hold. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="25" />&nbsp;&nbsp; Trying to murder **Griffith** and **the whale that ate my leg**. <br>
+- I’m currently learning **Ethical Hacking and Pentesting**. 
+- I enjoy teaching others the junk I know
+- Trying to murder **Griffith** and **the whale that ate my leg**. 
 
-</details>
+<hr></hr> 
 
-<div align="center">
+</a>
+
+
+  
+**More stats**
+
+<div align = "center">
 
 <a  href="https://github.com/flvr-soda">
 
@@ -43,7 +47,7 @@
 </a>
 
 </div>
-<hr></hr>
+
 
 
 
