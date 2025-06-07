@@ -4,6 +4,8 @@
 </p>
 
 <p align="center">
+
+  
   <a href="https://github.com/flvr-soda?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/flvr-soda?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/flvr-soda?tab=followers">
@@ -11,22 +13,6 @@
   <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Whale.png" alt="Whale" width="20%" /></br>
 </p>
 
-<div align="center" width="50">
-  
-[![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
-[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-</div>
-
-<br><br>
 <pre>
     💼 Student • Ethical Hacking • Comp-Sci 
     💻 Operating Systems • DevOps 
@@ -34,7 +20,38 @@
     🎮 Poetry • Anime • Code • Literature • Cinema
     🪓 Murdering Griffith and the whale that ate my leg.
 </pre>
-<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flvr-soda/flvr-soda/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flvr-soda/flvr-soda/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/flvr-soda/flvr-soda/output/github-snake.svg" />
+</picture>
+
+ <h3>💾 Tech Stack </h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="38" alt="tensorflow logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="38" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="38" alt="nixos logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="c logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="38" alt="bash logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="38" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="38" alt="pandas logo"  />
+</div>
+
 
  <h3>🔥 Streak Stats</h3>
 <a> <img src="http://github-readme-streak-stats.herokuapp.com?user=flvr-soda&theme=gruvbox&exclude_days=Sun%2CSat" > </a>
