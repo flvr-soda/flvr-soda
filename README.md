@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/flvr-soda/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Call%20me%20Ismael.;Technophilosopher%20and%20Rioting%20Archmage.;Science,%20Engineering,%20Development%20and%20Hacking!&font=Fira%20Code&center=true&width=1000&height=45&color=A7A459&vCenter=true&pause=1000&size=25" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Call%20me%20Ismael.;I%20rot,%20but%20beautifully.;Science,%20Engineering,%20Development%20and%20Hacking!&font=Fira%20Code&center=true&width=1000&height=45&color=A7A459&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 <p align="center">
