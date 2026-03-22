@@ -17,8 +17,6 @@
     💼 Student • Ethical Hacking • Comp-Sci 
     💻 Operating Systems • DevOps 
     📖 Algorithms and Data Structures • Pentesting
-    🎮 Poetry • Anime • Code • Literature • Cinema
-    🪓 Murdering Griffith and the whale that ate my leg.
 </pre>
 
 <picture>
