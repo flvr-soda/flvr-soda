@@ -54,9 +54,4 @@
  <h3>🔥 Streak Stats</h3>
 <a> <img src="http://github-readme-streak-stats.herokuapp.com?user=flvr-soda&theme=gruvbox&exclude_days=Sun%2CSat" > </a>
 
- <h3>💻 GitHub Profile Stats</h3>
-<a> <img src="https://github-readme-stats.vercel.app/api?username=flvr-soda&show_icons=true&theme=gruvbox"> </a>
-<a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flvr-soda&layout=compact&theme=gruvbox"> </a>
-
-
 
